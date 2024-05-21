@@ -1,0 +1,9 @@
+.sidecolor {
+    /* Gradient background */
+    background-image: linear-gradient(to bottom, #1E4D92, #0D1B2A);
+    /* Fallback solid color */
+    background-color: #1E4D92; /* Dark blue fallback */
+    /* Other styles */
+    padding: 20px;
+    color: white; /* Text color */
+}
